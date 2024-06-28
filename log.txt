@@ -1,0 +1,9 @@
+2024-06-28 10:26:02,101 - INFO - Starting synchronization
+2024-06-28 10:26:02,116 - INFO - File copied: C:\Users\Raul\SourceFolder\TestFile.txt to C:\Users\Raul\SyncToFolder\TestFile.txt
+2024-06-28 10:26:02,116 - INFO - Synchronization completed
+2024-06-28 10:26:32,118 - INFO - Starting synchronization
+2024-06-28 10:26:32,118 - INFO - File updated: C:\Users\Raul\SourceFolder\TestFile.txt to C:\Users\Raul\SyncToFolder\TestFile.txt
+2024-06-28 10:26:32,118 - INFO - Synchronization completed
+2024-06-28 10:27:02,123 - INFO - Starting synchronization
+2024-06-28 10:27:02,123 - INFO - Directory removed: C:\Users\Raul\SyncToFolder\Nova pasta
+2024-06-28 10:27:02,123 - INFO - Synchronization completed
