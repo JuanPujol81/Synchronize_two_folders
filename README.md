@@ -24,7 +24,7 @@ The synchronization process is detailed, ensuring that the replica folder mirror
 
 
 Log File Structure Description
-The log file associated with folders_sync.py appears to follow a structured format for logging events, based on the provided code excerpt. Each log entry likely contains the following information:
+The log file associated with folders_sync.py follows a structured format for logging events. Each log entry contains the following information:
 
 Timestamp: The date and time when the event occurred, providing a chronological context for the synchronization actions.
 Event Type: This indicates whether the event was a file or directory copy, or a file or directory removal.
