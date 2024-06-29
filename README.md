@@ -1,5 +1,14 @@
 # Synchronize_two_folders
 Implementing a program that synchronizes two folders: source and replica. The  program will maintain a full, identical copy of source folder at replica folder.
+To run the program it must be followed the structure:
+
+Python folders_sync.py c:/your/source_file/location 30 c:/your/replica_file/location c:/your/log_file/location
+
+This means that the arguments are 
+1-the location of the source.
+2-the time in seconds to run the infinite loop updating the replica_folder.
+3-The replica_folder location.
+4-The log file location.
 
 
 Code Description for folders_sync.py:
